@@ -4,7 +4,8 @@
 
 ![UEMG](https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/uemg_ibirite2.jpg)
 
-![Python](https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/python.png)
+![Python]:(https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/python.png)
+{: height="10px" width="10px"}
 
 *Author: João Ventura*
 
