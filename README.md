@@ -2,9 +2,7 @@
 
 <p align="center"> This project is related with the classes of statistical analysis in Physical Education researchs, produced by laboratory of Sport Psychology and Motor Behavior of State University of Minas Gerais - Brazil </p>
 
-![UEMG](https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/uemg_ibirite2.jpg)
-
-![Python](https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/python.png)
+<img align="center" src="https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/uemg_ibirite2.jpg" width="50">
 
 
 <p float="left">
