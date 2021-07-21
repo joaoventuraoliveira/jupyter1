@@ -1,26 +1,29 @@
-<h1 align="center"> Statistics for Sports and Physical Education </h1> 
-<<<<<<< HEAD
+Statistic for Physical Education
+===================
+![UEMG](https://www.uemg.br/downloads/identidade_visual/assinaturas/UEMG/UEMG_vertical_mini.jpg)
+This course has plan to introducing the statistical contents for researchs centered in movement analysis, sport psychology and cognitive/ physiological neurosciences.
 
-<p align="center"> This project is related with the classes of statistical analysis in Physical Education researchs, produced by laboratory of Sport Psychology and Motor Behavior of State University of Minas Gerais - Brazil </p>
-
-<h1 align="left">
-    <a href="https://www.uemg.br/downloads/identidade_visual/assinaturas/UEMG/UEMG_vertical.jpg"></a>
-</h1>
+These classes involves ![python](https://www.python.org/static/community_logos/python-powered-w-70x28.png) and ![R](https://www.r-project.org/logo/Rlogo.svg =30x) languages.  
 
 
-Author: João Ventura
-=======
-<img src="https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/uemg_ibirite2.jpg" align="center" width="70">
+## Contents
+* Concepts
+* Pre-processing of datasets
+* Data wragling
+* Descriptive statistics
+* Inferential statistic (commom tests) in parametric data
+* Inferential statistic (commom tests) in non-parametric data
+* Data cisualization (codes and tools)
+* Writing results
+* Next steps
 
-<p align="center"> This project is related with the classes of statistical analysis in Physical Education researchs, produced by laboratory of Sport Psychology and Motor Behavior of State University of Minas Gerais - Brazil </p>
 
 
 
-<p float="left">
-  <img src="https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/uemg_ibirite2.jpg" width="50" />
-  <img src="https://github.com/joaoventuraoliveira/jupyter1/blob/master/imgs/python.png" width="50" /> 
-  <img src="" width="100" />
-</p>
-*Author: João Ventura*
->>>>>>> 3ea575b5719890765a4f959fc3360f1f6f1e826c
+`Authhor by João Ventura`
 
+
+[^bignote]: This is the first edition of this course.
+
+  	* Grupo de Pesquisas em Psicologia do Esporte e Comportamento Motor (GEPECOM)
+  	* Núcleo de Pesquisas em Atividades Paradesportivas (NPAP)
